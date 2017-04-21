@@ -1,0 +1,10 @@
+[Activity]
+name = AguBrowser
+bundle_id = org.ceibaljam.abrowse
+service_name = org.ceibaljam.abrowse
+class = AguBrowse.AguBrowse
+icon = abrowse
+activity_version = 3
+show_launcher = yes
+license = GPLv2+
+
